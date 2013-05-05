@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://zhouhao.github.com
-author: Zhou Hao
+url: http://sicyko.github.com
+author: Sicyko
 pygments: true
 paginate: 16
